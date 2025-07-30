@@ -1,4 +1,4 @@
-# Sweet Interactive Valentine
+# Sweet Interactive Proposal
 
 Welcome! This playful project lets you make a charming, engaging webpage to ask: "Will you be my Date?" 💗
 
