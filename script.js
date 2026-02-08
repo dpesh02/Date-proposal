@@ -26,7 +26,15 @@ const funResponses = [
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Just kidding, say yes please! ❤️",
+    "This is your final answer? 😶",
+"Emergency cuteness alert 🚨",
+"My feelings are loading…",
+"Loading sadness… 50%",
+"Sadness at 99% 😭",
+"System crash 💔",
+"Alright, I’m done asking…",
+"HA! Tricked you 😄 say yes ❤️"
 ];
 
 let funIndex = 0;
